@@ -11,7 +11,7 @@ concurrency:
 
 jobs:
   changelog:
-    if: github.repository == 'EddieHubCommunity/LinkFree'
+    if: github.repository == 'Irtamdemha90/test'
     runs-on: ubuntu-latest
 
     steps:
